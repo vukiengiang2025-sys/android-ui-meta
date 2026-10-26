@@ -2,34 +2,48 @@ name: Update Android UI Meta Repo
 
 on:
   schedule:
-    - cron: '0 2 * * *' # Chạy hàng ngày lúc 2:00 UTC (9:00 sáng VN)
-  workflow_dispatch:      # Cho phép chạy thủ công
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  update-meta:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
-
-      - name: Fetch data and generate README
+      - name: Generate content
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_and_generate.py
-
-      - name: Commit and push changes
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || (git commit -m "🤖 Tự động cập nhật danh sách UI/UX" && git push)
+          git add README.md docs/
+          git diff --staged --quiet || (git commit -m "🤖 Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
