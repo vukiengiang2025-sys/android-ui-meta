@@ -4,7 +4,7 @@
 
 ### 🌐 [**Mở trang duyệt trực quan** → search · filter · sort](https://vukiengiang2025-sys.github.io/android-ui-meta/)
 
-📊 **150** thư viện · 🕐 Cập nhật: `2026-10-26 17:39 UTC`
+📊 **150** thư viện · 🕐 Cập nhật: `2026-10-26 17:42 UTC`
 
 ---
 
@@ -62,7 +62,7 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 43,433 | 🟢 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and... |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 43,435 | 🟢 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and... |
 | [open-ani/animeko](https://github.com/open-ani/animeko) | 21,243 | 🟢 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform |
 | [komi-store/komi-store](https://github.com/komi-store/komi-store) | 19,918 | 🟢 | 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install a... |
 | [chrisbanes/tivi](https://github.com/chrisbanes/tivi) | 6,719 | ⚫ | Tivi is a TV show tracking Android app, which connects to trakt.tv |
@@ -101,7 +101,7 @@
 | [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 29,966 | 🟢 | 💊 Application to use ReVanced on Android  |
 | [android/compose-samples](https://github.com/android/compose-samples) | 23,546 | 🟢 | Official Jetpack Compose samples. |
 | [android/nowinandroid](https://github.com/android/nowinandroid) | 21,969 | 🟢 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
-| [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 15,203 | 🟢 | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like ... |
+| [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 15,204 | 🟢 | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like ... |
 | [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) | 13,805 | 🟢 | YouTube Music client for Android |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | 9,467 | ⚫ | An Android application for streaming music from YouTube Music |
 | [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 8,482 | 🟢 | RikkaHub is an Android APP that supports for multiple LLM providers. |
@@ -122,20 +122,20 @@
 | [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) | 3,657 | 🟡 | Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose |
 | [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) | 3,608 | 🟢 | Dots indicators for Android ViewPager and Compose |
 | [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) | 3,452 | 🔴 | 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way |
-| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 3,416 | 🟢 | Essential tools and mods for Android nerds |
-| [AhmadHassan-BTed/AhSilence](https://github.com/AhmadHassan-BTed/AhSilence) | 3,401 | 🟢 | An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hu... |
+| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 3,417 | 🟢 | Essential tools and mods for Android nerds |
+| [AhmadHassan-BTed/AhSilence](https://github.com/AhmadHassan-BTed/AhSilence) | 3,403 | 🟢 | An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hu... |
 | [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) | 3,392 | 🟢 | Celebrate more with this lightweight confetti particle system 🎊 |
 | [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations) | 3,390 | 🔴 | Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate. |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | 3,327 | 🟢 | I am thanos! 😈 👌 |
 | [wgtunnel/android](https://github.com/wgtunnel/android) | 3,302 | 🟢 | An advanced, open-source client for WireGuard and AmneziaWG on Android. |
-| [AhmadHassan-BTed/MotionShot](https://github.com/AhmadHassan-BTed/MotionShot) | 3,239 | 🟢 | Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D... |
+| [AhmadHassan-BTed/MotionShot](https://github.com/AhmadHassan-BTed/MotionShot) | 3,241 | 🟢 | Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D... |
 | [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | 3,223 | 🟢 | A clean user focused audiobook player for Android |
 | [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) | 3,184 | ⚫ | Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the ... |
 | [evrencoskun/TableView](https://github.com/evrencoskun/TableView) | 3,181 | 🔴 | TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of ro... |
 | [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) | 3,095 | 🟢 | Android feed reader app |
 | [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | 2,944 | 🟢 | Media Gallery app for Android made with Jetpack Compose |
 | [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) | 2,707 | 🟢 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt |
-| [AhmadHassan-BTed/Parchment](https://github.com/AhmadHassan-BTed/Parchment) | 2,701 | 🟢 | A soulful, production-grade PDF reader for Android featuring a "Warm Paper" aesthetic, gesture-driven interface, and a h... |
+| [AhmadHassan-BTed/Parchment](https://github.com/AhmadHassan-BTed/Parchment) | 2,702 | 🟢 | A soulful, production-grade PDF reader for Android featuring a "Warm Paper" aesthetic, gesture-driven interface, and a h... |
 | [jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) | 2,612 | 🟢 | 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources |
 | [airbnb/Showkase](https://github.com/airbnb/Showkase) | 2,324 | 🟢 | 🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetp... |
 | [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 2,321 | 🟢 | Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection. |
