@@ -4,7 +4,7 @@
 
 ### 🌐 [**Mở trang duyệt trực quan** → search · filter · sort](https://vukiengiang2025-sys.github.io/android-ui-meta/)
 
-📊 **150** thư viện · 🕐 Cập nhật: `2026-11-27 10:37 UTC`
+📊 **150** thư viện · 🕐 Cập nhật: `2026-11-28 09:54 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) | 24,553 | 🟢 | BRVAH:Powerful and flexible RecyclerAdapter |
+| [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) | 24,554 | 🟢 | BRVAH:Powerful and flexible RecyclerAdapter |
 | [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | 11,522 | 🔴 | An Android Animation library which easily add itemanimator to RecyclerView items. |
 | [Freelander/Android_Data](https://github.com/Freelander/Android_Data) | 8,971 | 🔴 | Some Android learning materials, hoping to help you learn Android development. |
 | [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) | 5,762 | 🔴 | A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations. |
@@ -61,17 +61,17 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 45,493 | 🟢 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and... |
-| [komi-store/komi-store](https://github.com/komi-store/komi-store) | 22,571 | 🟢 | 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install a... |
-| [open-ani/animeko](https://github.com/open-ani/animeko) | 22,115 | 🟢 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 45,551 | 🟢 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and... |
+| [komi-store/komi-store](https://github.com/komi-store/komi-store) | 22,662 | 🟢 | 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install a... |
+| [open-ani/animeko](https://github.com/open-ani/animeko) | 22,137 | 🟢 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform |
 | [chrisbanes/tivi](https://github.com/chrisbanes/tivi) | 6,712 | ⚫ | Tivi is a TV show tracking Android app, which connects to trakt.tv |
-| [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) | 4,827 | 🟢 | Compose Multiplatform Liquid Glass effect |
+| [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) | 4,848 | 🟢 | Compose Multiplatform Liquid Glass effect |
 | [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) | 4,519 | 🟢 | AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and pr... |
 | [skydoves/Balloon](https://github.com/skydoves/Balloon) | 4,016 | 🟢 | :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin ... |
-| [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) | 3,443 | 🟢 | Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web cl... |
+| [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) | 3,444 | 🟢 | Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web cl... |
 | [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) | 3,215 | 🟢 | A powerful and extensible chart library for Compose Multiplatform. |
 | [adrielcafe/voyager](https://github.com/adrielcafe/voyager) | 3,088 | 🟢 | 🛸 A pragmatic navigation library for Compose Multiplatform |
-| [maxrave-dev/kotlin-footguns](https://github.com/maxrave-dev/kotlin-footguns) | 2,782 | 🟢 | Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a prod... |
+| [maxrave-dev/kotlin-footguns](https://github.com/maxrave-dev/kotlin-footguns) | 2,804 | 🟢 | Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a prod... |
 | [chrisbanes/haze](https://github.com/chrisbanes/haze) | 2,702 | 🟢 | Background blurring for Compose Multiplatform / Jetpack Compose |
 
 ## Image & Media
@@ -81,10 +81,10 @@
 | [zhihu/Matisse](https://github.com/zhihu/Matisse) | 12,488 | 🔴 | :fireworks: A well-designed local image and video selector for Android |
 | [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) | 9,863 | 🔴 | An Android transformation library providing a variety of image transformations for Glide. |
 | [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 8,008 | 🔴 | Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of ... |
-| [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor) | 7,230 | 🟡 | An android image compression library. |
+| [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor) | 7,232 | 🟡 | An android image compression library. |
 | [wasabeef/Blurry](https://github.com/wasabeef/Blurry) | 5,643 | 🔴 | Blurry is an easy blur library for Android |
 | [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) | 5,391 | 🔴 | Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all ... |
-| [natario1/CameraView](https://github.com/natario1/CameraView) | 5,130 | 🔴 | 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the c... |
+| [natario1/CameraView](https://github.com/natario1/CameraView) | 5,129 | 🔴 | 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the c... |
 | [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) | 4,944 | 🟡 | RTMP live streaming client for Android |
 | [jdamcd/android-crop](https://github.com/jdamcd/android-crop) | 4,499 | ⚫ | Android library project for cropping images |
 | [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) | 2,894 | 🔴 | ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View... |
@@ -95,52 +95,52 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31,077 | 🟢 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
-| [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 30,262 | 🟢 | 💊 Application to use ReVanced on Android  |
-| [android/compose-samples](https://github.com/android/compose-samples) | 23,588 | 🟢 | Official Jetpack Compose samples. |
-| [android/nowinandroid](https://github.com/android/nowinandroid) | 22,139 | 🟢 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
-| [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) | 18,858 | 🟢 | Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angu... |
-| [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 15,796 | 🟢 | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like ... |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 10,112 | 🟢 | An on-device AI agent for Android that operates apps and the web to get things done for you. |
-| [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | 9,466 | ⚫ | An Android application for streaming music from YouTube Music |
-| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9,248 | 🟢 | RikkaHub is an Android APP that supports for multiple LLM providers. |
-| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 8,887 | 🟢 | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
+| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31,112 | 🟢 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
+| [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 30,270 | 🟢 | 💊 Application to use ReVanced on Android  |
+| [android/compose-samples](https://github.com/android/compose-samples) | 23,590 | 🟢 | Official Jetpack Compose samples. |
+| [android/nowinandroid](https://github.com/android/nowinandroid) | 22,144 | 🟢 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) | 18,940 | 🟢 | Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angu... |
+| [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 15,812 | 🟢 | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like ... |
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 10,165 | 🟢 | An on-device AI agent for Android that operates apps and the web to get things done for you. |
+| [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | 9,465 | ⚫ | An Android application for streaming music from YouTube Music |
+| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9,264 | 🟢 | RikkaHub is an Android APP that supports for multiple LLM providers. |
+| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 8,925 | 🟢 | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
 | [google/accompanist](https://github.com/google/accompanist) | 7,850 | 🔴 | A collection of extension libraries for Jetpack Compose |
-| [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 7,810 | 🟡 |  🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems. |
-| [plainhub/plain-app](https://github.com/plainhub/plain-app) | 7,279 | 🟢 | 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, conta... |
-| [thtbee/nectarlink](https://github.com/thtbee/nectarlink) | 7,208 | 🟢 | Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account. |
+| [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 7,809 | 🟡 |  🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems. |
+| [thtbee/nectarlink](https://github.com/thtbee/nectarlink) | 7,395 | 🟢 | Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account. |
+| [plainhub/plain-app](https://github.com/plainhub/plain-app) | 7,293 | 🟢 | 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, conta... |
 | [Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | 6,895 | 🟢 | A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential |
-| [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) | 5,469 | 🟢 | A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune |
-| [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) | 5,424 | 🟢 | A search-focused Android launcher |
+| [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) | 5,468 | 🟢 | A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune |
+| [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) | 5,426 | 🟢 | A search-focused Android launcher |
 | [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) | 5,276 | 🟢 | Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. |
-| [AhmadHassan-BTed/AhSilence](https://github.com/AhmadHassan-BTed/AhSilence) | 4,925 | 🟢 | An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hu... |
-| [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) | 4,818 | 🟢 | An Android native video player |
-| [AhmadHassan-BTed/MotionShot](https://github.com/AhmadHassan-BTed/MotionShot) | 4,616 | 🟢 | Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D... |
-| [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 4,565 | 🟢 | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。 |
-| [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) | 4,540 | 🟢 | A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ... |
-| [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) | 4,101 | 🟡 | APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. |
-| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 4,022 | 🟢 | Essential tools and mods for Android nerds |
+| [AhmadHassan-BTed/AhSilence](https://github.com/AhmadHassan-BTed/AhSilence) | 4,922 | 🟢 | An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hu... |
+| [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) | 4,822 | 🟢 | An Android native video player |
+| [AhmadHassan-BTed/MotionShot](https://github.com/AhmadHassan-BTed/MotionShot) | 4,612 | 🟢 | Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D... |
+| [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) | 4,571 | 🟢 | A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ... |
+| [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 4,563 | 🟢 | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。 |
+| [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) | 4,102 | 🟡 | APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. |
+| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 4,045 | 🟢 | Essential tools and mods for Android nerds |
 | [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) | 3,886 | 🔴 | Timeline View is a simple and highly customizable android library for creating shipment/order tracking, step progress in... |
 | [SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) | 3,659 | 🟢 | 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom ... |
-| [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) | 3,648 | 🟡 | Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose |
+| [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) | 3,649 | 🟡 | Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose |
 | [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) | 3,606 | 🟢 | Dots indicators for Android ViewPager and Compose |
-| [AhmadHassan-BTed/Parchment](https://github.com/AhmadHassan-BTed/Parchment) | 3,595 | 🟢 | A soulful, production-grade PDF reader for Android featuring a "Warm Paper" aesthetic, gesture-driven interface, and a h... |
+| [AhmadHassan-BTed/Parchment](https://github.com/AhmadHassan-BTed/Parchment) | 3,591 | 🟢 | A soulful, production-grade PDF reader for Android featuring a "Warm Paper" aesthetic, gesture-driven interface, and a h... |
 | [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) | 3,444 | 🔴 | 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way |
-| [wgtunnel/android](https://github.com/wgtunnel/android) | 3,396 | 🟢 | An advanced, open-source client for WireGuard and AmneziaWG on Android. |
+| [wgtunnel/android](https://github.com/wgtunnel/android) | 3,400 | 🟢 | An advanced, open-source client for WireGuard and AmneziaWG on Android. |
 | [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) | 3,393 | 🟢 | Celebrate more with this lightweight confetti particle system 🎊 |
 | [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations) | 3,385 | 🔴 | Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate. |
-| [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | 3,371 | 🟢 | I am thanos! 😈 👌 |
-| [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | 3,315 | 🟢 | A clean user focused audiobook player for Android |
+| [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | 3,373 | 🟢 | I am thanos! 😈 👌 |
+| [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | 3,318 | 🟢 | A clean user focused audiobook player for Android |
 | [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) | 3,183 | ⚫ | Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the ... |
 | [evrencoskun/TableView](https://github.com/evrencoskun/TableView) | 3,181 | 🔴 | TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of ro... |
-| [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) | 3,146 | 🟢 | Android feed reader app |
-| [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | 3,060 | 🟢 | Media Gallery app for Android made with Jetpack Compose |
-| [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 2,862 | 🟢 | Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection. |
-| [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) | 2,833 | 🟢 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookup... |
-| [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) | 2,820 | 🟢 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt |
+| [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) | 3,150 | 🟢 | Android feed reader app |
+| [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | 3,065 | 🟢 | Media Gallery app for Android made with Jetpack Compose |
+| [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 2,870 | 🟢 | Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection. |
+| [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) | 2,836 | 🟢 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookup... |
+| [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) | 2,828 | 🟢 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt |
 | [androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) | 1,523 | 🔴 | 👓 A continuously updated list of learning Jetpack Compose for Android apps. |
 | [leinardi/FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) | 1,475 | 🔴 | A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification (https://m... |
-| [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) | 1,388 | 🟢 | 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming wit... |
+| [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) | 1,397 | 🟢 | 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming wit... |
 | [leotyndale/EnFloatingView](https://github.com/leotyndale/EnFloatingView) | 1,221 | 🟢 | 🔥应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view. |
 | [ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff](https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff) | 752 | 🟡 | Feature-first Clean Architecture Android Project |
 | [catalinghita8/android-compose-mvvm-foodies](https://github.com/catalinghita8/android-compose-mvvm-foodies) | 502 | 🔴 | Android sample app following best practices: Kotlin, Compose, Coroutines and Flow, Hilt, JetPack Navigation, ViewModel, ... |
@@ -151,7 +151,7 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | 11,641 | 🟢 | The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design. |
+| [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | 11,643 | 🟢 | The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design. |
 | [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | 9,601 | 🔴 | Android library to observe scroll events on scrollable views. |
 | [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | 7,211 | 🔴 | Bootstrap style widgets for Android, with Glyph Icons |
 | [Tapadoo/Alerter](https://github.com/Tapadoo/Alerter) | 5,502 | 🔴 | An Android Alerting Library |
@@ -168,12 +168,12 @@
 
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
-| [Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android) | 14,475 | 🔴 | 提高 Android UI 开发效率的 UI 库 |
-| [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) | 12,486 | 🟢 | A curated list of awesome Android packages and resources. |
+| [Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android) | 14,477 | 🔴 | 提高 Android UI 开发效率的 UI 库 |
+| [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) | 12,489 | 🟢 | A curated list of awesome Android packages and resources. |
 | [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) | 10,219 | 🟢 | ⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make... |
 | [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) | 9,853 | ⚫ | Simplify Android M system permissions |
 | [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) | 8,063 | 🔴 | :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer |
-| [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) | 6,341 | 🔴 | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. |
+| [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) | 6,342 | 🔴 | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. |
 | [amitshekhariitbhu/Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | 5,943 | 🟡 | 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀 |
 | [journeyapps/zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded) | 5,931 | 🔴 | Barcode scanner library for Android, based on the ZXing decoder |
 | [opendigg/awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) | 5,789 | 🔴 | 安卓UI相关开源项目库汇总  |
@@ -199,7 +199,7 @@
 | Repository | ⭐ Stars | Trạng thái | Mô tả |
 |---|---:|---:|---|
 | [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 25,079 | 🔴 | 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。 |
-| [google/flexbox-layout](https://github.com/google/flexbox-layout) | 18,262 | ⚫ | Flexbox for Android  |
+| [google/flexbox-layout](https://github.com/google/flexbox-layout) | 18,263 | ⚫ | Flexbox for Android  |
 | [diogobernardino/williamchart](https://github.com/diogobernardino/williamchart) | 5,087 | 🔴 | Android Library to rapidly develop attractive and insightful charts in android applications. |
 | [hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout) | 4,171 | 🔴 | Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件 |
 | [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) | 3,752 | 🔴 | The missing Android blurring library. Fast blur-behind layout that parallels iOS. |
